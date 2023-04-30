@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Kevin Kreutz and this is my private Github profile
+
 
 <!--
 **Vottz/Vottz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
